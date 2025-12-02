@@ -59,8 +59,16 @@ Prompt Engineering
 AI-Assisted Research & Content Generation
 
 
-# 📫 Connect With Me
+# 📱 Social Media & Content Skills
 
-Feel free to reach out for collaboration or projects!
+Social Media Handling (Instagram, WhatsApp Business)
+
+Audience Engagement (Replies, Comments, Feedback Management)
+
+Basic Content Writing
+
+Maintaining Digital Records & Scheduling
+
+** Feel free to reach out for collaboration or projects! **
 
 ⭐ Thanks for visiting my profile! 🚀
