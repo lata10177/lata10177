@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lata sree</h1>
-<h3 align="center">Hi, I’m Lata Sree. I’m a bachelor’s student, and I’m focused on building practical skills and gaining experience to grow in the industry.</h3>
+<h3 align="center"> I’m a bachelor’s student, and I’m focused on building practical skills and gaining experience to grow in the industry.</h3>
 
 - 🔭 I’m currently working on **build ai agent**
 
