@@ -13,7 +13,7 @@
 # Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lata-sree-7a69991299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lata-sree-7a69991299" height="30" width="40" /></a>
-<a href="https://instagram.com/lexi9ote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lexi9ote" height="30" width="40" /></a>
+
 <a href="https://discord.gg/l10177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l10177" height="30" width="40" /></a>
 </p>
 
